@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(/images/bg-desktop.svg);
+  background-image: url(../images/bg-desktop.svg);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
